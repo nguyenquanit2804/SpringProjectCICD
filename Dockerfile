@@ -13,4 +13,4 @@ COPY --from=build /app/target/*.jar /app/springProjectCICD.jar
 EXPOSE 8080
 
 # Set the entry point to run the Spring Boot application with Maven
-ENTRYPOINT ["java", "-jar", "/app/app.jar"]
+ENTRYPOINT ["java", "-jar", "/app/springProjectCICD.jar"]
