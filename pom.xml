@@ -9,8 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>SpringCICD</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>springCICD</artifactId>
     <name>SpringCICD</name>
     <description>SpringCICD</description>
     <properties>
